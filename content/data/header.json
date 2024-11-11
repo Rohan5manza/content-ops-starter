@@ -23,7 +23,7 @@
             "type": "Button"
         },
         {
-            "label": "Join our academy",
+            "label": "Join our Academy",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
