@@ -25,7 +25,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Our Newsletter",
             "altText": "",
             "url": "/",
             "showIcon": false,
