@@ -23,7 +23,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Join us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
