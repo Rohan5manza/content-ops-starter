@@ -43,7 +43,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Our Community",
             "altText": "",
             "url": "/",
             "showIcon": false,
