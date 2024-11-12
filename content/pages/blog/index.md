@@ -8,7 +8,7 @@ topSections:
       text: Join us as an AI teacher
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'Become a full-fledged educator '
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
