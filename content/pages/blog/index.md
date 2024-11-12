@@ -1,6 +1,6 @@
 ---
 title: Join us
-slug: /blog
+slug: /academy
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
