@@ -1,5 +1,9 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  We welcome others to join our academy as an online teacher. Whether you are a
+  professional teacher in an institution, or a well-experienced student with a
+  solid resume of AI projects, you can easily become a top educator at our
+  academy. 
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
